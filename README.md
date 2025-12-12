@@ -114,11 +114,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=tokyonight" />
 </p>
 
 ---
