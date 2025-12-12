@@ -2,8 +2,9 @@
 <h3 align="center">Data Analyst | Machine Learning & AI Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
+  <img src="https://i.pinimg.com/originals/63/fe/30/63fe301e8dd7aa236a93f62a7a6c976d.gif" width="260" />
 </p>
+
 
 ---
 
@@ -127,8 +128,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreya-singh-rajawat&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shreya-singh-rajawat&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 
 ## 🏆 GitHub Achievements
