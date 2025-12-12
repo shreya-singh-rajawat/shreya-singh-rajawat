@@ -57,21 +57,21 @@
 
 ## 🏢 Experience
 
-### **💼 Data Analyst Intern — Bdreamz Global Solution, Bangalore (2025–Present)**  
+### 💼 **Data Analyst Intern — Bdreamz Global Solution, Bangalore (2025–Present)**  
+
 #### 1️⃣ Excel & Power BI Dashboard Development  
 - Built interactive dashboards using Pivot Tables, Slicers, Power Query & DAX  
-- Visualized KPIs and redesigned reporting workflows  
+- Visualized KPIs to enhance data-driven decision-making  
 
 #### 2️⃣ Voice Agent – AI Assistant  
-- Developed a full-stack **Python + JavaScript** project  
-- Implemented **real-time speech-to-text** using Vosk / Web Speech API  
+- Full-stack **Python + JavaScript** project  
+- Real-time speech-to-text (Vosk / Web Speech API)  
 - Integrated **Groq LLM & LangChain tools**  
-- Built an intuitive **HTML/CSS/JS** interface  
+- Built responsive UI with HTML/CSS/JS  
 
 #### 3️⃣ Smart Recipe Recommender  
 - Built using **FastAPI + Streamlit**  
-- Fuzzy matching for ingredient mapping  
-- Utilized LLMs for recipe generation  
+- Fuzzy ingredient matching + LLM recipe generation  
 - Implemented caching to boost performance  
 
 ---
@@ -94,30 +94,33 @@
 ## 🔥 Featured Projects
 
 ### ⭐ **Employee Management System (SQL + OOP)**
-- Designed relational DB with employees, departments & payroll  
-- Created stored procedures & triggers  
-- Automated salary + attendance workflows  
+- Designed relational DB for employees, departments & payroll  
+- Developed stored procedures, triggers & functions  
+- Automated salary & attendance processing  
 
 ### ⭐ **Farmer’s E-Website – Green Harvest (Full-Stack Project)**
-- Structured backend using OOP-based modules  
+- Structured backend modules using OOP  
 - Integrated APIs (weather, news, pest detection)  
-- Built responsive UI with **HTML, CSS, JavaScript & React**
+- Built responsive UI using HTML, CSS, JS & React  
 
 ### ⭐ **AI Voice Assistant**
-- Real-time speech recognition & LLM-based responses  
-- Offline + online capability  
+- Real-time speech recognition & LLM responses  
+- Offline + online mode support  
 
 ### ⭐ **Smart Recipe Recommender**
-- AI-powered ingredient-based recipe generator  
+- AI-powered recommendation engine  
+- Uses FastAPI + Streamlit + LLMs  
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -125,7 +128,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreya-singh-rajawat&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=shreya-singh-rajawat&theme=tokyonight" />
 </p>
 
 ---
@@ -133,9 +136,10 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreya-singh-rajawat&theme=onestar&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreya-singh-rajawat&theme=onedark&margin-w=10" />
 </p>
+
+---
 
 ## 💬 Fun Fact  
 ✨ I love combining **AI + Web Development** to build real-world intelligent applications!
-
