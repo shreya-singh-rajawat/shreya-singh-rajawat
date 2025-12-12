@@ -111,35 +111,30 @@
 - AI-powered recommendation engine  
 - Uses FastAPI + Streamlit + LLMs  
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shreya-singh-rajawat&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shreya-singh-rajawat&theme=dark" alt="GitHub Streak" />
 </p>
 
----
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreya-singh-rajawat&theme=onedark&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreya-singh-rajawat&theme=dark&margin-w=10" alt="GitHub Trophies" />
 </p>
 
----
 
 ## 💬 Fun Fact  
 ✨ I love combining **AI + Web Development** to build real-world intelligent applications!
