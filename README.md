@@ -110,16 +110,14 @@
 ### ⭐ **Smart Recipe Recommender**
 - AI-powered ingredient-based recipe generator  
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=shreya-singh-rajawat&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=shreya-singh-rajawat&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -127,7 +125,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-singh-rajawat&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shreya-singh-rajawat&theme=tokyonight" />
 </p>
 
 ---
@@ -135,10 +133,8 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreya-singh-rajawat&theme=darkhub&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shreya-singh-rajawat&theme=onestar&margin-w=10" />
 </p>
-
----
 
 ## 💬 Fun Fact  
 ✨ I love combining **AI + Web Development** to build real-world intelligent applications!
