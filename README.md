@@ -2,12 +2,9 @@
 <h3 align="center">Data Analyst | Machine Learning & AI Enthusiast | Python Developer</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/76YS.gif" width="230" />
+  <img src="https://i.pinimg.com/originals/63/fe/30/63fe301e8dd7aa236a93f62a7a6c976d.gif" width="260" />
 </p>
 
-
-
----
 
 ## 👩‍💻 About Me
 
