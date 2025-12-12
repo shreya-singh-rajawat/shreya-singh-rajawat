@@ -21,10 +21,8 @@
 
 ## 🚀 Skills & Technologies
 
-### 🧠 Programming & Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,sqlite" />
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📊 Data Science & ML
 - NumPy, Pandas, Matplotlib, Seaborn  
@@ -122,20 +120,19 @@
 
 ---
 
+<!--## 🔥 GitHub Streak
 
-## 🔥 GitHub Streak
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shreya-singh-rajawat&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
 
-## 🏆 GitHub Achievements
+<!--## 🏆 GitHub Achievements
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shreya-singh-rajawat&theme=dark&margin-w=10" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 
 ## 💬 Fun Fact  
